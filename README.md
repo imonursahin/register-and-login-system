@@ -1,2 +1,9 @@
-# register-and-login-system
- -register -login -mail activation -password reminder -panel
+# register-and-login
+
+-register 
+-login 
+-mail activation
+-password reminder
+-panel
+ 
+ database: Medoo
